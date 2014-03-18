@@ -1,0 +1,19 @@
+{
+  "name": "cyber-shopping",
+  "version": "0.0.1",
+  "description": "An HTML5 experimentation for cyber shopping",
+  "main": "index.js",
+  "scripts": {
+    "test": "true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mackwic/cyber-shopping.git"
+  },
+  "author": "Thomas 'mackwic' Wickham <mackwic@gmail.com>",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/mackwic/cyber-shopping/issues"
+  },
+  "homepage": "https://github.com/mackwic/cyber-shopping"
+}
