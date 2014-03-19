@@ -13,7 +13,6 @@
     "npm": "1.3.x"
   },
   "scripts": {
-    "prepublish": "./node_modules/.bin/lsc -cj package.ls",
     "build": "brunch b",
     "start": "./node_modules/.bin/brunch watch --server",
     "test": "npm run build && bower i && ./node_modules/karma/bin/karma start --browsers PhantomJS --single-run true test/karma.conf.js"
