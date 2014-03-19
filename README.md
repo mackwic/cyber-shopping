@@ -25,4 +25,9 @@ Organization
 - [Agile Workspace](https://waffle.io/mackwic/cyber-shopping) (reference issues and pull requests in commits)
 - [API Documentation](http://docs.cybershopping.apiary.io/) (changes in API needs to be reflected in Apiary)
 - API Testing: [cybershopping.apiary.io](http://cybershopping.apiary.io)
+- Quick backend
+    * [Editable
+      Content](https://docs.google.com/spreadsheets/d/1A6obfI6se66jtGIEi0F-S7dsO057p_MbhMjUGLhPkVk/edit?usp=sharing)
+    * [JSON
+      Content](https://spreadsheets.google.com/feeds/list/1A6obfI6se66jtGIEi0F-S7dsO057p_MbhMjUGLhPkVk/od6/public/values?alt=json)
 
