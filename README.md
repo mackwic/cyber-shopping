@@ -30,7 +30,7 @@ Organization
     * [Editable
       Content](https://docs.google.com/spreadsheets/d/1A6obfI6se66jtGIEi0F-S7dsO057p_MbhMjUGLhPkVk/edit?usp=sharing)
     * [JSON
-      Content](https://spreadsheets.google.com/feeds/list/1A6obfI6se66jtGIEi0F-S7dsO057p_MbhMjUGLhPkVk/od6/public/values?alt=json)
+      Content](https://spreadsheets.google.com/feeds/list/1A6obfI6se66jtGIEi0F-S7dsO057p_MbhMjUGLhPkVk/od6/public/values?alt=json) (content is in `data.feed.entry[n]['gsx$' + columnName]`)
 
 ## angular-brunch-seed-livescript
 #### A started project for AngularJS using Brunch.io with LiveScript
